@@ -11,7 +11,7 @@ var serviceAccount = require("./TokensFirebase.json");
 
 firebase.initializeApp({
   credential: firebase.credential.cert(serviceAccount),
-  databaseURL: "https://neko-coin.firebaseio.com"
+  databaseURL: "url_hehe"
 });
 
 const database = firebase.database();
