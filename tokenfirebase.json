@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neko-coin",
+  "private_key_id": "Key_hehe",
+  "private_key": "key_hehe",
+  "client_email": "email_hehe",
+  "client_id": "ID_hehe",
+  "auth_uri": "conta_hehe",
+  "token_uri": "token_hehe",
+  "auth_provider_x509_cert_url": "conta_hehe",
+  "client_x509_cert_url": "url_hehe"
+}
